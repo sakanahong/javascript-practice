@@ -76,6 +76,13 @@ for (const loopcolour of colour){
 console.log(`Hello, my name is ${fullname} & i'm ${deduct(a,b)} this year & stay at ${city}. Do note that ${add(a,b)} `);
 
 
+function add(a1,b1){
+
+    return a1+b1; 
+}
+
+console.log(`THe total number of ${a} + ${b} is equal to ${add(a,b)}`);
+
 
 
 
