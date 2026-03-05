@@ -106,3 +106,5 @@ for (const student of students){
         console.log(`Name : ${student.name} with the score :${student.score} - Try better  !`);
     };
 };
+
+
